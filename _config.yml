@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: dlc16
-baseurl: /StrayBirds
+baseurl: /myblog
 markdown: redcarpet
 safe: false
 highlighter: pygments
